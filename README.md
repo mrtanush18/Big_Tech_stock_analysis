@@ -2,7 +2,7 @@
 An end-to-end data visualization project that transforms raw stock market data into an interactive Tableau dashboard. This project uses real historical data from NASDAQ to showcase insights for six major tech companies.
 
 ## Dataset
-Source: Public NASDAQ Stock Dataset (Link : https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEp4ZEJWWEo2dlduX3V6NHdmU0Z2aGdfeUNpd3xBQ3Jtc0ttbkVhdmQwcXFSWVgwQ2FUR0tvN1hFTWtBSmRIeEQ1aHZ0MUZIYl9MRTgtWWo4YTNMaklqYUU2QjQtZFlZMWhXaHlmVUlWVUJ3a1pZVW1wWC12cnhXTGpueWZBVmxndl9OVWJJam9RdjNBcGMwQzdKbw&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fjacksoncrow%2Fstock-market-dataset&v=_RT32my9PRQ)
+Source: [NASDAQ Stock Dataset](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset)
 
 Contains historical prices for 6,000+ companies
 
@@ -19,8 +19,7 @@ Daily Change in Price & Volume
 
 Previous Day Price & Volume columns
 
-## Tableau Dashboard Highlights
-Link : https://public.tableau.com/views/Stocks_17134694464150/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+## Tableau [Dashboard](https://public.tableau.com/views/Stocks_17134694464150/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) Highlights
 
 Multi-line chart: Trading Volume Over Time
 
@@ -32,7 +31,7 @@ Filters: Dynamic date ranges, company selection
 
 Additional Features: Custom logos, clean layout, formatted views
 
-(Insert a screenshot of the dashboard)
+![image](https://github.com/user-attachments/assets/f9e410a4-1aca-496a-b220-bb3bb04163d9)
 
 ## Tools Used
 Python: Data preprocessing with Pandas
