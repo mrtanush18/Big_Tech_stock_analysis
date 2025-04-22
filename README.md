@@ -19,7 +19,7 @@ Daily Change in Price & Volume
 
 Previous Day Price & Volume columns
 
-## Tableau [Dashboard](https://public.tableau.com/views/Stocks_17134694464150/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) Highlights
+## Tableau Dashboard Highlights
 
 Multi-line chart: Trading Volume Over Time
 
@@ -51,4 +51,4 @@ Run pandas_processing.ipynb to generate cleaned CSVs
 
 Open Tableau and import the CSV files
 
-Recreate or customize the dashboard using the .twbx file provided (if included)
+Recreate or customize the dashboard which can be downloaded using the [link](https://public.tableau.com/views/Stocks_17134694464150/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
