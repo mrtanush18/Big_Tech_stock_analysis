@@ -2,7 +2,7 @@
 An end-to-end data visualization project that transforms raw stock market data into an interactive Tableau dashboard. This project uses real historical data from NASDAQ to showcase insights for six major tech companies.
 
 ## Dataset
-Source: Public NASDAQ Stock Dataset (insert actual link)
+Source: Public NASDAQ Stock Dataset (Link : https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEp4ZEJWWEo2dlduX3V6NHdmU0Z2aGdfeUNpd3xBQ3Jtc0ttbkVhdmQwcXFSWVgwQ2FUR0tvN1hFTWtBSmRIeEQ1aHZ0MUZIYl9MRTgtWWo4YTNMaklqYUU2QjQtZFlZMWhXaHlmVUlWVUJ3a1pZVW1wWC12cnhXTGpueWZBVmxndl9OVWJJam9RdjNBcGMwQzdKbw&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fjacksoncrow%2Fstock-market-dataset&v=_RT32my9PRQ)
 
 Contains historical prices for 6,000+ companies
 
